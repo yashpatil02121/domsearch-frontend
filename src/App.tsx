@@ -80,9 +80,6 @@ export default function App() {
             DomSearch
           </h1>
         </div>
-        <p className="text-slate-300 text-lg max-w-2xl">
-          Intelligent web content search powered by AI. Index websites and find exactly what you need.
-        </p>
       </div>
 
       {/* Input Section */}
